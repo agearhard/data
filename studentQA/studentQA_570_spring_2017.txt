@@ -840,3 +840,143 @@ What is a negotiated offer?
 A negotiated is when the issuing company uses one underwriter. 
 Do leases generate agency costs?
 Yes, leases do generate agency costs.
+What is the difference between risky returns and risk-free returns called?
+The difference is called excess return on the risky asset.
+What is the equity risk premium?
+The equity risk premium is the average excess return on stock.
+What are the most common measures of variability, or dispersion?
+The most common measures of variability are variance and standard deviation.
+What information does the arithmetic average tell you?
+The arithmetic average tells you what you earned in a typical year and is an unbiased estimate of the true mean of the distribution.
+What information do you receive from a geometric average?
+The geometric average is useful in describing the actual historical investment experience. 
+How do you measure the relationship between the return on one stock and the return on another?
+You measure the relationship through covariance and correlation. 
+What is the expected return on a portfolio?
+It is a weighted average of the expected returns on the individual securities. 
+What is a systematic risk?
+Any risk that affects a large number of assets is a systematic risk.
+What is an unsystematic risk?
+An unsystematic risk is a risk that specifically affects a single asset or a small group of assets.
+What is the homogeneous expectation?
+The homogeneous expectation is the assumption that all investors have the same estimates of expected returns, variances, and covariances. 
+What does CAPM stand for?
+CAPM stands for the capital asset pricing model.
+Which model implies that the expected return on a security is linearly related to its beta?
+The CAPM or capital asset pricing model implies this relationship.
+What is another name for the discount rate?
+Another name for the discount rate is required return or cost of capital.
+How can a firm have high operating leverage?
+A firm can have high operating leverage by having a high fixed costs and low variable costs.
+Should the same discount rate be used for all projects?
+The same discount rate should not be used for all projects unless all projects are of the same risk.
+What is the weighted average cost of capital?
+The weighted average cost of capital is referred to as the average cost of capital weighs the cost of equity and the cost of debt.
+What does common stock usually mean?
+Common stock usually means it is applied to stock that has no special preference in receiving dividends or in bankruptcy. 
+How do shareholders control the corporation?
+Shareholders control the corporation through the right to elect the directors.
+How is cumulative voting calculated?
+Cumulative voting is calculated by the number of shares, owned or controlled, multiplied by the number of directs to be elected.
+How many directors are elected  with straight voting? 
+With straight voting, directors are elected one at a time. 
+If a shareholder is unable to vote, what is it called when they grant the authority to someone else to vote for their shares?
+The shareholder would be granting a proxy the authority to vote for their shares. 
+What is the difference between preferred stock and common stock?
+Preferred stock has preference over the common stock in the payment of dividends and the distribution of corporation assets in the event of liquidation.
+Are unpaid preferred dividends considered debts of the firm?
+Unpaid preferred dividends are not considered debts of the firm.
+What are dividends on preferred stock considered as?
+They are considered as either cumulative or noncumulative.
+What is another name for short-term debt?
+Another name for short-term debt is unfunded debt.
+What are other ways to refer to debt securities?
+Debt securities are also referred to as notes, debentures, or bonds.
+What are the two major forms of long-term debt?
+The two major forms of long-term debt are public issue and privately placed.
+What is an indenture or a deed of trust?
+An indenture or a deed of trust is a written agreement between the corporation and its creditors. 
+What is a debenture?
+A debenture is an unsecured bond for which no specific pledge of property is made.
+What is the name for the legal document that describes the mortgage?
+The legal document is called a mortgage trust indenture or trust deed. 
+What is collateral?
+Collateral commonly refers to any asset pledged on a debt.
+What is a call provision?
+A call provision allows the company to repurchase part of all of the bond issue at stated prices over a specific period. 
+What is the difference between the call price and the stated value?
+The difference between the call price and the stated value is the call premium.
+What two ways can a protective covenant be classified?
+The protective covenant can be classified as a negative covenant or a positive covenant.
+What is a negative covenant?
+A negative covenant limits or prohibits actions that the company might take.
+What is a positive covenant?
+A positive covenant specifies an action the company agrees to take or a condition the company must abide by. 
+How does a floating-rate bond differ from a conventional bond?
+A conventional bond has fixed-dollar obligations because the coupon rate is set as a fixed percentage of the par value. Floating-rate bonds have adjustable coupon payments.
+What are two international bonds?
+Two international bonds are the Eurobond and foreign bonds.
+What are Foreign bonds?
+Foreign bonds are issued in a single country are  usually denominated in that country's currency.
+What is bankruptcy?
+Bankruptcy is where the ownership of the firm's assets is legally transferred from the stockholders to the bondholders.
+What are protective covenants?
+Protective covenants are agreements between stockholders and bondholders in hopes of lowering the rates. 
+How often do public companies usually pay cash dividends?
+Public companies usually pay regular cash dividends four times a year.
+How are stock dividends commonly expressed?
+Stock dividends are commonly expressed as a ratio. 
+What is a stock split?
+A stock split increases the number of shares outstanding. 
+What is stock repurchase?
+Stock repurchase is when a firm uses its cash to buy back shares of its stock.
+What is a targeted repurchase?
+A targeted repurchase is a procedure firms use to repurchase shares from specific individual stockholders.
+What is the information content effect of the dividend?
+The information content effect of the dividend is the rise in the stock price following the dividend signal.
+What is a stock dividend?
+A stock dividend is another type of dividend paid out in shares of stock.
+How does a sale and leaseback occur?
+A sale and leaseback occurs when a company sells an asset it owns to another firm and immediately leases it back.
+What is a leveraged lease?
+A leveraged lease is a three-sided arrangement among the lessee, the lessor, and the lenders. 
+What is a hidden cost of leasing?
+Debt displacement is a hidden cost of leasing.
+What is the reservation payment?
+The reservation payment is the payment that will make one party indifferent to whether it enters the lease deal. This is the payment that will makes the value of the lease zero.
+What is networking capital?
+Net working capital is current assets minus current liabilities.
+What is the process of making and managing expenditures on long-lived assets called?
+This process is called capital budgeting.
+What is capital structure?
+Capital structure represents the proportions of the firm's financing from current and long-term debt and equity.
+How many people own a sole proprietorship?
+A sole proprietorship is a business owned by one person.
+What is a general partnership?
+A general partnership is a partnership where all partners agree to provide some fraction of the work and cash and to share the profits and losses.
+What is a limited partnership?
+A limited partnership permits the liability of some of the partners to be limited to the amount of cash each has contributed to the partnership.
+What is the term used to describe the relationship between the stockholders and management?
+An agency relationship is used to describe the relationship.
+What is corporate finance?
+Corporate finance is the study of the relationship between business decisions, cash flows, and the value of the stock in the business. 
+What are agency costs?
+These are the costs of the conflict of interested between stockholders and management. 
+A financial manager is concerned about which three items when analyzing a balance sheet?
+A financial manager is concerned with the liquidity, debt versus equity, and value versus cost. 
+What is liquidity?
+Liquidity refers to the ease and quickness with which assets can be converted to cash. 
+What are current assets?
+Current assets include cash and assets that will be turned into cash within a year from the date of the balance sheet.
+What are accounts receivable?
+Accounts receivable are the amounts not yet collected from customers for goods or services sold to them. 
+What is a balance sheet used for?
+A balance sheet is an accountant's snapshot of a firm's accounting value on a particular date. 
+Is the goal of the financial manager to increase the market value of the stock?
+Yes, the goal of the financial manager is to increase the market value of the stock not the book value.
+What are deferred taxes?
+Deferred taxes are the result from differences between accounting income and true taxable income.
+What is depreciation?
+Depreciation is the accountant's estimate of the cost of equipment used up in the production process. 
+What is operating cash flow?
+Operating cash flow is defined as earnings before interest plus depreciation minus taxes.
